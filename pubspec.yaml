@@ -17,6 +17,7 @@ dependencies:
   flutter_nekoton_bridge:
     git:
       url: https://github.com/phudyshkin/nekoton_bridge.git
+      path: packages/flutter_nekoton_bridge
   freezed_annotation: ^2.2.0
   get_it: ^7.6.0
   injectable: ^2.1.0
